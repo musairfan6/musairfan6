@@ -42,7 +42,7 @@ Computer Science Student from Dublin, Ireland
 ## Extras:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,astro,git,github,docker,aws,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,astro,git,github" />
 </p>
 
 ---
