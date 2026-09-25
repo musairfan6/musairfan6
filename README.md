@@ -7,7 +7,7 @@ Computer Science Student from Dublin, Ireland
 </h3>
 
 <p align="center">
-  <img src="YOUR_TRINITY_LOGO_IMAGE_URL" height="120" alt="Trinity College Dublin" />
+  <img src="tcdlogo.jpg" height="120" alt="Trinity College Dublin" />
 </p>
 
 <p align="center">
