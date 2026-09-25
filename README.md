@@ -7,6 +7,10 @@ Computer Science Student from Dublin, Ireland
 </h3>
 
 <p align="center">
+  <img src="YOUR_TRINITY_LOGO_IMAGE_URL" height="120" alt="Trinity College Dublin" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=musairfan6&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
