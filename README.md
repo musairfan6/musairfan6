@@ -46,13 +46,3 @@ Computer Science Student from Dublin, Ireland
 </p>
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musairfan6&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musairfan6&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
