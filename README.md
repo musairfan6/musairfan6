@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Musa Irfan 👋</h1>
 
-<!--
-**musairfan6/musairfan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Computer Science Student from Dublin, Ireland
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=musairfan6&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+- 🔭 I’m currently working on **thelctutors.com, LeetCode, and finishing my degree :)**
+- 💻 Interested in **backend engineering, cloud systems, and full-stack development**
+
+---
+
+## Connect with me:
+
+<p>
+  <a href="mailto:musairfan6@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/musa-irfan-909925251/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+</p>
+
+---
+
+## Languages:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,rust" />
+</p>
+
+<img src="https://img.shields.io/badge/ARM%20Assembly-Assembly-333333?style=for-the-badge" />
+
+---
+
+## Extras:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,astro,git,github,docker,aws,mysql,sqlite" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musairfan6&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musairfan6&layout=compact&theme=github_dark&hide_border=true" />
+</p>
