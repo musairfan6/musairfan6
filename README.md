@@ -15,7 +15,6 @@ Computer Science Student from Dublin, Ireland
 </p>
 
 - 🔭 I’m currently working on **thelctutors.com, LeetCode, and finishing my degree :)**
-- 💻 Interested in **backend engineering, cloud systems, and full-stack development**
 
 ---
 
