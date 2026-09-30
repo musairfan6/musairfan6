@@ -11,7 +11,10 @@ Computer Science Student from Dublin, Ireland
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musairfan6&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=musairfan6&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Musa Irfan profile views"
+  />
 </p>
 
 - 🔭 I’m currently working on **thelctutors.com, LeetCode, and finishing my degree :)**
