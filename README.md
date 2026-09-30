@@ -12,8 +12,8 @@ Computer Science Student from Dublin, Ireland
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=musairfan6&label=Profile%20Views&color=0e75b6&style=flat&v=2"
-    alt="Musa Irfan profile views"
+    src="https://komarev.com/ghpvc/?username=musairfan6&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
   />
 </p>
 
