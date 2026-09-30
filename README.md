@@ -11,8 +11,10 @@ Computer Science Student from Dublin, Ireland
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musairfan6&label=Profile%20Views&color=0e75b6&style=flat&v=2" />
+  <img
+    src="https://komarev.com/ghpvc/?username=musairfan6&label=Profile%20Views&color=0e75b6&style=flat&v=2"
     alt="Musa Irfan profile views"
+  />
 </p>
 
 - 🔭 I’m currently working on **thelctutors.com, LeetCode, and finishing my degree :)**
@@ -23,11 +25,11 @@ Computer Science Student from Dublin, Ireland
 
 <p>
   <a href="mailto:musairfan6@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
   </a>
 
   <a href="https://www.linkedin.com/in/musa-irfan-909925251/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
 </p>
 
